@@ -1,4 +1,4 @@
-# hands-on-MLOps!
+# Hands-on-MLOps!
 
 El objetivo de este Workshop es poder adentrarnos en los conceptos fundamentales de MLOps, para luego llevarlos a la práctica utilizando diferentes servicios asociados a Azure.
 
