@@ -15,7 +15,7 @@ En el contexto de la implementación de los primeros modelos de machine learning
 Además de esto podemos 
 # ¿A quién va dirigido?
 
-A todos aquellos que quieran ampliar sus conocimientos respecto a la ciencia de datos pero creemos que podría interesarle principalmente a aquellos que quieran reforzar su carrera en los siguientes roles:
+A todos aquellos que quieran ampliar sus conocimientos respecto a la ciencia de datos, pero creemos que podría interesarle principalmente a aquellos que quieran reforzar su carrera en los siguientes roles:
 
 * Data Engineers
 * Devops Engineers
