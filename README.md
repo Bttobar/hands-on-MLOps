@@ -32,7 +32,8 @@ A todos aquellos que quieran ampliar sus conocimientos respecto a la ciencia de 
 
 La idea es que al momento de iniciar el Workshop ya tengas creadas la cuenta y las configuraciones necesarias dentro del portal Azure, dado que esto nos va a permitir trabajar con más fluidez. Los pasos que debes seguir son los siguientes:
 
-* En primer lugar debes crear una cuenta en Azure, ¡no te preocupes! es gratis los primeros 12 meses con un cupo de 200 dólares. Puedes registrarte en el siguiente link https://azure.microsoft.com/en-us/free/ 
+* En primer lugar debes crear una cuenta en Azure, ¡no te preocupes! es gratis y tienes cupo de 200 dólares el primer mes. Puedes registrarte en el siguiente link https://azure.microsoft.com/en-us/free/
+* Luego de esto, al ingresar al https://portal.azure.com/ debes generar una subscripción, y presionar "Start" en la opción de Free Trial.
 
-
+<img src="start.PNG" >
 
