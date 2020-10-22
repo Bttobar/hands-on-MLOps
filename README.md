@@ -1,5 +1,7 @@
 # Hands-on-MLOps!
 
+<img source="workshop">
+
 En Imagemaker creemos que la mejor manera de demostrar nuestros valores, es poniéndolos en práctica
 El objetivo de este Workshop es poder adentrarnos en los conceptos fundamentales de MLOps, para luego llevarlos a la práctica utilizando el servicio de Machine Learning de Azure (Azure ML).
 
