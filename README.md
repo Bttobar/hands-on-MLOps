@@ -1,6 +1,6 @@
 # Hands-on-MLOps!
 
-<img src="workshop.PNG" >
+<img src="images/workshop.PNG" >
 
 En Imagemaker creemos que la mejor manera de demostrar nuestros valores, es poniéndolos en práctica
 El objetivo de este Workshop es poder adentrarnos en los conceptos fundamentales de MLOps, para luego llevarlos a la práctica utilizando el servicio de Machine Learning de Azure (Azure ML).
@@ -35,7 +35,7 @@ La idea es que al momento de iniciar el Workshop ya tengas creadas la cuenta y l
 * En primer lugar debes crear una cuenta en Azure, ¡no te preocupes! es gratis y tienes cupo de 200 dólares el primer mes. Puedes registrarte en el siguiente link https://azure.microsoft.com/en-us/free/
 * Luego de esto ingresa al https://portal.azure.com/ para generar una subscripción. Presionar "Start" en la opción de Free Trial.
 
-<img src="start.PNG" >
+<img src="images/start.PNG" >
 
 * Finalmente debes rellenar los datos con tu información personal, después de esto deberías ser redireccionado al portal Azure.
 
