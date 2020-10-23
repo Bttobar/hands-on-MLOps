@@ -13,18 +13,34 @@ En el contexto de la implementación de los primeros modelos de machine learning
 * Logging de métricas relevantes
 * Definición de ambientes
 
-Además de esto podemos 
 
 # ¿Cual será la dinámica del Workshop?
 
 El workshop consistirá de la siguiente dinámica:
 
-* 14:00 - 14:15 Bienvenida y presentación Imagemaker
-* 14:15 - 15:00 Presentación de los contenidos
-* 15:00 - 15:15 Break de conversación -> Snack virtual
-* 15:15 - 16:00 Hands-on módulo N°1
-* 16:00 - 16:15 Break de conversación -> Snack virtual
-* 16:15 - 17:00 Hands-on módulo N°2
+* 14:00 - 14:10 Bienvenida y presentación Imagemaker
+* 14:10 - 15:00 Presentación MLOps en Azure
+* 15:00 - 15:10 Break de conversación -> Snack virtual
+* 15:10 - 16:00 Hands-on módulo N°1
+* 16:00 - 16:10 Break de conversación -> Snack virtual
+* 16:10 - 17:00 Hands-on módulo N°2
+
+# Contenidos
+
+1) Presentación MLOps en Azure:
+
+Los contenidos de la presentación son los siguientes:
+* a 
+* b
+* c
+
+2) Hands-on módulo N°1
+
+* a
+* b
+* c
+
+
 
 # ¿A quién va dirigido?
 
