@@ -2,8 +2,7 @@
 
 <img src="images/workshop.PNG" >
 
-En Imagemaker creemos que la mejor manera de demostrar nuestros valores, es poniéndolos en práctica
-El objetivo de este Workshop es poder adentrarnos en los conceptos fundamentales de MLOps, para luego llevarlos a la práctica utilizando el servicio de Machine Learning de Azure (Azure ML).
+En Imagemaker creemos que la mejor manera de demostrar nuestros valores, es poniéndolos en práctica. El objetivo de este Workshop es poder adentrarnos en los conceptos fundamentales de MLOps, para luego llevarlos a la práctica utilizando el servicio de Machine Learning de Azure (Azure ML).
 
 # Pero primero... ¿Qué es MLOps?
 
@@ -15,6 +14,18 @@ En el contexto de la implementación de los primeros modelos de machine learning
 * Definición de ambientes
 
 Además de esto podemos 
+
+# ¿Cual será la dinámica del Workshop?
+
+El workshop consistirá de la siguiente dinámica:
+
+* 14:00 - 14:15 Bienvenida y presentación Imagemaker
+* 14:15 - 15:00 Presentación de los contenidos
+* 15:00 - 15:15 Break de conversación -> Snack virtual
+* 15:15 - 16:00 Hands-on módulo N°1
+* 16:00 - 16:15 Break de conversación -> Snack virtual
+* 16:15 - 17:00 Hands-on módulo N°2
+
 # ¿A quién va dirigido?
 
 A todos aquellos que quieran ampliar sus conocimientos respecto a la ciencia de datos, pero creemos que podría interesarle principalmente a aquellos que quieran reforzar su carrera en los siguientes roles:
@@ -27,6 +38,8 @@ A todos aquellos que quieran ampliar sus conocimientos respecto a la ciencia de 
 * Business Intelligence Professionals
 * Software Engineer
 * Cloud Solutions Architects
+* Analytics Managers
+
 
 # ¿Qué necesito para el Workshop?
 
