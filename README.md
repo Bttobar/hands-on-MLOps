@@ -8,10 +8,10 @@ En Imagemaker creemos que la mejor manera de demostrar nuestros valores, es poni
 
 En el contexto de la implementación de los primeros modelos de machine learning al interior de las organizaciones, se encontraron diferentes problemáticas asociadas a la automatización y produccionalización de los proyectos IA. En este contexto surge una serie de buenas prácticas encargadas de resolver las problemáticas más comunes enfrentadas. Con el objetivo de centrarnos en aquellas más relevantes, a continuación se enumeran las que competen a este Workshop (esto porque existen otras):
 
-* Versionamiento de datos
-* Versionamiento de modelos
-* Definición de ambientes
-* Puesta en producción de modelos
+* Logging de métricas relevantes.
+* Versionamiento de datos.
+* Versionamiento de modelos.
+* Definición de ambientes.
 
 
 # ¿Cual es el "schedule" del workshop?
@@ -56,8 +56,6 @@ En el segundo módulo "hands-on" vamos a revisar el entrenamiento de los modelos
 * Entrenamiento del modelo utilizando scikit-learn.
 * Registro del modelo.
 * Verificación de versiones del modelo.
-* Produccionalización del modelo.
-* Prueba del modelo puesto en producción.
 
 # ¿A quién va dirigido?
 
