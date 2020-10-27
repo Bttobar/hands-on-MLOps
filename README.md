@@ -35,8 +35,8 @@ A continuación se presentan las secciones de trabajo con sus contenidos:
 
 2) Hands-on módulo N°1
 
-* Ingreso al portal Azure para la creación del "resource group".
-* Creación del recurso de machine learning.
+* Ingreso al portal Azure para la creación del "Resource Group".
+* Creación del recurso Azure machine learning.
 * Creación de la instancia en la que se trabajará.
 * Configuración del Workspace.
 * Creación del dataset.
@@ -47,8 +47,10 @@ A continuación se presentan las secciones de trabajo con sus contenidos:
 
 * Formulación del problema de machine learning.
 * Entrenamiento del modelo utilizando scikit-learn.
-* Registro del modelo 
-* Verificación del registro
+* Registro del modelo.
+* Verificación de versiones del modelo.
+* Produccionalización del modelo.
+* Prueba del modelo puesto en producción.
 
 
 
