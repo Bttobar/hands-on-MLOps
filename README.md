@@ -87,5 +87,5 @@ La idea es que al momento de iniciar el Workshop ya tengas creadas la cuenta y l
 * Finalmente debes rellenar los datos con tu información personal, después de esto deberías ser redireccionado al portal Azure.
 
 Con estos pasos ¡ya estás oficialmente listo para el Workshop, todo el resto de las configuraciones las vamos a hacer en vivo de manera que podamos trabajar al mismo tiempo!
-Además todos los datos y códigos van a ser liberados el mismo día del workshop en este mismo repositorio. Debes buscar la carpeta "workshop" y específicamente el jupyter notebook "imagemaker-ml-hands-on".
+Además todos los datos y códigos van a ser liberados el mismo día del workshop en este mismo repositorio. Debes buscar la carpeta "workshop" y específicamente el Jupyter Notebook "imagemaker-ml-hands-on".
 
