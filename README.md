@@ -26,18 +26,29 @@ El workshop consistirá de la siguiente dinámica:
 
 # Contenidos
 
+A continuación se presentan las secciones de trabajo con sus contenidos:
+
 1) Presentación MLOps en Azure:
 
-Los contenidos de la presentación son los siguientes:
 * Comprendiendo MLOps: pilares fundamentales para estructurar proyectos de machine learning e interacción entre datos, modelos y código.
-* Entendiendo MLOps en Azure: se presentarán las estructuras en la que Azure almacena los datos, el registro de modelos y cómo poner en producción un modelo.
+* Aplicando MLOps en Azure: se presentarán las estructuras en la que Azure almacena los datos, el registro de modelos y cómo ponerlos en producción.
 
 2) Hands-on módulo N°1
 
 * Ingreso al portal Azure para la creación del "resource group".
 * Creación del recurso de machine learning.
 * Creación de la instancia en la que se trabajará.
-* 
+* Configuración del Workspace.
+* Creación del dataset.
+* Revisión del versionamiento del dataset.
+* Estadísticas descriptivas de los datos.
+
+3) Hands-on módulo N°2
+
+* Formulación del problema de machine learning.
+* Entrenamiento del modelo utilizando scikit-learn.
+* Registro del modelo 
+* Verificación del registro
 
 
 
@@ -67,5 +78,5 @@ La idea es que al momento de iniciar el Workshop ya tengas creadas la cuenta y l
 
 * Finalmente debes rellenar los datos con tu información personal, después de esto deberías ser redireccionado al portal Azure.
 
-Con estos pasos ya estás oficialmente listo para el Workshop, todo el resto de las configuraciones las vamos a hacer en vivo de manera que podamos trabajar al mismo tiempo!
+Con estos pasos ¡ya estás oficialmente listo para el Workshop, todo el resto de las configuraciones las vamos a hacer en vivo de manera que podamos trabajar al mismo tiempo!
 
