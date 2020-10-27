@@ -16,7 +16,7 @@ En el contexto de la implementación de los primeros modelos de machine learning
 
 # ¿Cual es el "schedule" del workshop?
 
-El workshop se estructurará en los siguientes horarios:
+La planificación para el workshop es la siguiente:
 
 * 14:00 - 14:15 Bienvenida y presentación Imagemaker
 * 14:15 - 14:45 Presentación MLOps en Azure
