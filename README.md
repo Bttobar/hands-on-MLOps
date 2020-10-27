@@ -18,27 +18,26 @@ En el contexto de la implementación de los primeros modelos de machine learning
 
 El workshop consistirá de la siguiente dinámica:
 
-* 14:00 - 14:10 Bienvenida y presentación Imagemaker
-* 14:10 - 15:00 Presentación MLOps en Azure
-* 15:00 - 15:10 Break de conversación -> Snack virtual
-* 15:10 - 16:00 Hands-on módulo N°1
-* 16:00 - 16:10 Break de conversación -> Snack virtual
-* 16:10 - 17:00 Hands-on módulo N°2
+* 14:00 - 14:15 Bienvenida y presentación Imagemaker
+* 14:15 - 14:45 Presentación MLOps en Azure
+* 14:45 - 15:30 Hands-on módulo N°1
+* 15:30 - 15:45 Break de conversación
+* 15:45 - 16:30 Hands-on módulo N°2
 
 # Contenidos
 
 1) Presentación MLOps en Azure:
 
 Los contenidos de la presentación son los siguientes:
-* a 
-* b
-* c
+* Comprendiendo MLOps: pilares fundamentales para estructurar proyectos de machine learning e interacción entre datos, modelos y código.
+* Entendiendo MLOps en Azure: se presentarán las estructuras en la que Azure almacena los datos, el registro de modelos y cómo poner en producción un modelo.
 
 2) Hands-on módulo N°1
 
-* a
-* b
-* c
+* Ingreso al portal Azure para la creación del "resource group".
+* Creación del recurso de machine learning.
+* Creación de la instancia en la que se trabajará.
+* 
 
 
 
