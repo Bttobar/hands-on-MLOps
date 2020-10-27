@@ -14,9 +14,9 @@ En el contexto de la implementación de los primeros modelos de machine learning
 * Puesta en producción de modelos
 
 
-# ¿Cual será la dinámica del Workshop?
+# ¿Cual es el "schedule" del workshop?
 
-El workshop consistirá de la siguiente dinámica:
+El workshop se estructurará en los siguientes horarios:
 
 * 14:00 - 14:15 Bienvenida y presentación Imagemaker
 * 14:15 - 14:45 Presentación MLOps en Azure
