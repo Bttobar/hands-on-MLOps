@@ -80,11 +80,12 @@ La idea es que al momento de iniciar el Workshop ya tengas creadas la cuenta y l
 
 * En primer lugar debes crear una cuenta en Azure, ¡no te preocupes! es gratis y tienes cupo de 200 dólares el primer mes. Puedes registrarte en el siguiente link https://azure.microsoft.com/en-us/free/
 * Luego de esto ingresa al https://portal.azure.com/ para generar una subscripción. Presionar "Start" en la opción de Free Trial.
-* Todos los datos y códigos van a ser liberados el mismo día del workshop en la carpeta "workshop", específicamente en el jupyter notebook "imagemaker-ml-hands-on"
+
 
 <img src="images/start.PNG" >
 
 * Finalmente debes rellenar los datos con tu información personal, después de esto deberías ser redireccionado al portal Azure.
 
 Con estos pasos ¡ya estás oficialmente listo para el Workshop, todo el resto de las configuraciones las vamos a hacer en vivo de manera que podamos trabajar al mismo tiempo!
+Además todos los datos y códigos van a ser liberados el mismo día del workshop en la carpeta "workshop", específicamente en el jupyter notebook "imagemaker-ml-hands-on".
 
