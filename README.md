@@ -6,12 +6,12 @@ En Imagemaker creemos que la mejor manera de demostrar nuestros valores, es poni
 
 # Pero primero... ¿Qué es MLOps?
 
-En el contexto de la implementación de los primeros modelos de machine learning al interior  diferentes problemáticas asociadas a la automatización y produccionalización de los proyectos IA, surge una serie de buenas prácticas encargadas de resolver las problemáticas más acuciantes al interior de las organizaciones. Con el objetivo de centrarnos en aquellas más relevantes, a continuación se enumeran las que competen a este Workshop (esto porque existen otras):
+En el contexto de la implementación de los primeros modelos de machine learning al interior de las organizaciones, se encontraron diferentes problemáticas asociadas a la automatización y produccionalización de los proyectos IA. En este contexto surge una serie de buenas prácticas encargadas de resolver las problemáticas más comunes enfrentadas. Con el objetivo de centrarnos en aquellas más relevantes, a continuación se enumeran las que competen a este Workshop (esto porque existen otras):
 
 * Versionamiento de datos
 * Versionamiento de modelos
-* Logging de métricas relevantes
 * Definición de ambientes
+* Puesta en producción de modelos
 
 
 # ¿Cual será la dinámica del Workshop?
@@ -26,14 +26,14 @@ El workshop consistirá de la siguiente dinámica:
 
 # Contenidos
 
-A continuación se presentan las secciones de trabajo con sus contenidos:
+Como se muestra en la sección anterior, los contenidos incluyen una presentación inicial para entender la estructura de Azure machine learning, para luego en los siguientes módulos poner todos estos conceptos en práctica con un "hands-on". En las siguientes secciones se explicita el contenido de los módulos más relevantes.
 
-1) Presentación MLOps en Azure:
+# 1) Presentación MLOps en Azure:
 
 * Comprendiendo MLOps: pilares fundamentales para estructurar proyectos de machine learning e interacción entre datos, modelos y código.
 * Aplicando MLOps en Azure: se presentarán las estructuras en la que Azure almacena los datos, el registro de modelos y cómo ponerlos en producción.
 
-2) Hands-on módulo N°1
+# 2) Hands-on módulo N°1
 
 * Ingreso al portal Azure para la creación del "Resource Group".
 * Creación del recurso Azure machine learning.
@@ -43,7 +43,7 @@ A continuación se presentan las secciones de trabajo con sus contenidos:
 * Revisión del versionamiento del dataset.
 * Estadísticas descriptivas de los datos.
 
-3) Hands-on módulo N°2
+# 3) Hands-on módulo N°2
 
 * Formulación del problema de machine learning.
 * Entrenamiento del modelo utilizando scikit-learn.
@@ -51,7 +51,6 @@ A continuación se presentan las secciones de trabajo con sus contenidos:
 * Verificación de versiones del modelo.
 * Produccionalización del modelo.
 * Prueba del modelo puesto en producción.
-
 
 
 # ¿A quién va dirigido?
