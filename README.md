@@ -28,7 +28,7 @@ El workshop consistirá de la siguiente dinámica:
 
 Como se muestra en la sección anterior, los contenidos incluyen una presentación inicial para entender la estructura de Azure machine learning, para luego en los siguientes módulos poner todos estos conceptos en práctica con un "hands-on". En las siguientes secciones se explicita el contenido de los módulos más relevantes.
 
-# Presentación MLOps en Azure:
+# Presentación MLOps en Azure
 
 El objetivo de la presentación es comprender los elementos que entrega Azure machine learning, para que en las siguientes secciones entendamos el código que estaremos escribiendo. Esta presentación se divide en dos partes:
 
@@ -59,7 +59,6 @@ En el segundo módulo "hands-on" vamos a revisar el entrenamiento de los modelos
 * Produccionalización del modelo.
 * Prueba del modelo puesto en producción.
 
-
 # ¿A quién va dirigido?
 
 A todos aquellos que quieran ampliar sus conocimientos respecto a la ciencia de datos, pero creemos que podría interesarle principalmente a aquellos que quieran reforzar su carrera en los siguientes roles:
@@ -81,6 +80,7 @@ La idea es que al momento de iniciar el Workshop ya tengas creadas la cuenta y l
 
 * En primer lugar debes crear una cuenta en Azure, ¡no te preocupes! es gratis y tienes cupo de 200 dólares el primer mes. Puedes registrarte en el siguiente link https://azure.microsoft.com/en-us/free/
 * Luego de esto ingresa al https://portal.azure.com/ para generar una subscripción. Presionar "Start" en la opción de Free Trial.
+* Todos los datos y códigos van a ser liberados el mismo día del workshop en la carpeta "workshop", específicamente en el jupyter notebook "imagemaker-ml-hands-on"
 
 <img src="images/start.PNG" >
 
