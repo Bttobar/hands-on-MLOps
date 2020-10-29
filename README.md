@@ -45,12 +45,12 @@ En el primer módulo "hands-on" vamos a revisar tanto la creación de los recurs
 * Configuración del Workspace.
 * Creación del dataset.
 * Revisión del versionamiento del dataset.
-* Estadísticas descriptivas de los datos.
 
 # Hands-on módulo N°2
 
 En el segundo módulo "hands-on" vamos a revisar el entrenamiento de los modelos y como ponerlos en producción. A continuación el contenido punto por punto:
 
+* Estadísticas descriptivas de los datos.
 * Definición del ambiente.
 * Formulación del problema de machine learning.
 * Entrenamiento del modelo utilizando scikit-learn.
