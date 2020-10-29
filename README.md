@@ -56,6 +56,8 @@ En el segundo módulo "hands-on" vamos a revisar el entrenamiento de los modelos
 * Entrenamiento del modelo utilizando scikit-learn.
 * Registro del modelo.
 * Verificación de versiones del modelo.
+* Deployment del modelo en una ACI.
+* Testeo del modelo.
 
 # ¿A quién va dirigido?
 
