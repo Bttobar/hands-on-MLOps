@@ -50,7 +50,7 @@ En el primer módulo "hands-on" vamos a revisar tanto la creación de los recurs
 
 En el segundo módulo "hands-on" vamos a revisar el entrenamiento de los modelos y como ponerlos en producción. A continuación el contenido punto por punto:
 
-* Estadísticas descriptivas de los datos.
+* Experimentos y logging.
 * Definición del ambiente.
 * Formulación del problema de machine learning.
 * Entrenamiento del modelo utilizando scikit-learn.
