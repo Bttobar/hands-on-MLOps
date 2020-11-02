@@ -18,11 +18,11 @@ En el contexto de la implementación de los primeros modelos de machine learning
 
 La planificación para el workshop es la siguiente:
 
-* 14:00 - 14:10 Bienvenida y presentación Imagemaker
-* 14:10 - 14:30 Presentación MLOps en Azure
-* 14:30 - 15:10 Hands-on módulo N°1
-* 15:10 - 15:20 Break de conversación
-* 15:20 - 16:00 Hands-on módulo N°2
+* 15:00 - 15:10 Bienvenida y presentación Imagemaker
+* 15:10 - 15:30 Presentación MLOps en Azure
+* 15:30 - 16:10 Hands-on módulo N°1
+* 16:10 - 16:20 Break de conversación
+* 16:20 - 17:00 Hands-on módulo N°2
 
 # Contenidos
 
