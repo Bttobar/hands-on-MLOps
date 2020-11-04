@@ -27,7 +27,7 @@ La planificación para el workshop es la siguiente:
 
 # Contenidos
 
-Como se muestra en la sección anterior, los contenidos incluyen una presentación inicial para entender la estructura de Azure machine learning, para luego en los siguientes módulos poner todos estos conceptos en práctica con un "hands-on". En las siguientes secciones se explicita el contenido de los módulos más relevantes.
+Como se muestra en la sección anterior, los contenidos incluyen una presentación inicial para entender la estructura de Azure machine learning, para luego en los siguientes módulos poner todos estos conceptos en práctica con un "hands-on". El código se escribirá en un Jupyter notebook en Python. En las siguientes secciones se explicita el contenido de los módulos más relevantes.
 
 # Presentación MLOps en Azure
 
