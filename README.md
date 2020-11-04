@@ -6,12 +6,13 @@ En Imagemaker creemos que la mejor manera de demostrar nuestros valores, es poni
 
 # Pero primero... ¿Qué es MLOps?
 
-En el contexto de la implementación de los primeros modelos de machine learning al interior de las organizaciones, se encontraron diferentes problemáticas asociadas a la automatización y produccionalización de los proyectos IA. En este contexto surge una serie de buenas prácticas encargadas de resolver las problemáticas más comunes enfrentadas. Con el objetivo de centrarnos en aquellas más relevantes, a continuación se enumeran las que competen a este Workshop (esto porque existen otras):
+En el contexto de la implementación de los primeros modelos de machine learning al interior de las organizaciones, se encontraron diferentes problemáticas asociadas a la automatización y produccionalización de los proyectos IA. Dado lo anterior, surge una serie de buenas prácticas encargadas de resolver las problemáticas más comunes enfrentadas. Con el objetivo de centrarnos en aquellas más relevantes, a continuación se enumeran las que competen a este Workshop (esto porque existen otras):
 
 * Logging de métricas relevantes.
 * Versionamiento de datos.
 * Versionamiento de modelos.
 * Definición de ambientes.
+* Despliegue de modelos en producción.
 
 
 # ¿Cual es el "schedule" del workshop?
@@ -88,4 +89,8 @@ La idea es que al momento de iniciar el Workshop ya tengas creadas la cuenta y l
 
 Con estos pasos ¡ya estás oficialmente preparado para el Workshop, todo el resto de las configuraciones las vamos a hacer en vivo de manera que podamos trabajar al mismo tiempo!
 Además todos los datos y códigos van a ser liberados el mismo día del workshop en este mismo repositorio. Debes buscar la carpeta "workshop" y específicamente el Jupyter Notebook "imagemaker-ml-hands-on.ipynb".
+
+# ¿Qué me llevo del Workshop?
+
+Aparte de todos los conocimientos que puedas absorber, tenemos preparados diplomas de asistencia. Estos serán otorgados a nombre de Imagemaker para todos aquellos que asistan a al menos un 80% del workshop.
 
