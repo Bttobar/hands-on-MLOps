@@ -6,7 +6,7 @@ En Imagemaker creemos que la mejor manera de demostrar nuestros valores, es poni
 
 https://zoom.us/webinar/register/WN_AJ1MmYz6RKm-BPFIIQjBQA
 
-<img src="images/welcome.PNG" >
+<img src="images/welcome.png" >
 
 # Pero primero... ¿Qué es MLOps?
 
